@@ -1,4 +1,4 @@
 hi
 hello
 this is first line of new doc
-
+this is second line of doc
